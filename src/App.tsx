@@ -1,6 +1,5 @@
 
-//import './App.css'
-
+import './App.css'
 import Cabecalho from "./components/Cabecalho"
 import Alunos from "./components/Alunos"
 import Professores from "./components/Professores"
